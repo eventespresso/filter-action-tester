@@ -3,6 +3,9 @@ This is a utility plugin that we can add filters/actions that help with testing 
 
 ## How to use
 
+1. Activate this plugin when using it to test specific bugs.
+2. Add more actions/filters to this to accompany testing notes in tickets (see Contributing section about this).
+3. You *may* want to comment out specific filters/actions if you don't want to be testing everything in this plugin, but do not commit those commented out code :)
 
 ## Contributing
 
