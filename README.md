@@ -1,7 +1,7 @@
 # filter-action-tester
 This is a utility plugin that we can add filters/actions that help with testing tickets.
 
-Note: since there will likely be usage of closures in this plugin, please 
+>Note: since there will likely be usage of closures in this plugin, this plugin should only be used on PHP > 5.3
 
 ## How to use
 
